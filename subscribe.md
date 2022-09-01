@@ -1,14 +1,6 @@
-# Subprocessors
+# How to Subscribe
 
-The home of GitHub's sub-processors list
-
-## The List
-
-The list of subprocessors can be found in the [subprocessor_list.md](https://github.com/privacy/subprocessors/blob/main/subprocessor_list.md) file
-
-## How to Subscribe
-
-If you wish to get automated updates of GitHub's `subprocessor` list, simply watch this repo:
+If you wish to get automated updates of changes in a repo, simply watch this repo:
 1. Make sure you are logged in to your GitHub account
 2. In the top right corner, click on the small arrow next to `Watch`: \
 ![image](https://user-images.githubusercontent.com/64100373/164753982-d921dd13-5c35-41e4-b70c-974a7f2fe5ce.png)
